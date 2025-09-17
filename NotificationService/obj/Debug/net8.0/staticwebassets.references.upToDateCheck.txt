@@ -1,0 +1,6 @@
+D:\Sobes\TaskServiceApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Sobes\TaskServiceApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Sobes\TaskServiceApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Sobes\TaskServiceApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Sobes\TaskServiceApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Sobes\TaskServiceApi\obj\Debug\net8.0\staticwebassets.build.json
